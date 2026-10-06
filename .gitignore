@@ -28,3 +28,4 @@ test/
 *archive
 .httr-oauth
 .quarto
+*libs*

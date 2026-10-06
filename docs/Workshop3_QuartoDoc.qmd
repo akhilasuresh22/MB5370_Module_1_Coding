@@ -1,0 +1,19 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+```{r}
+install.packages("usethis")
+```
+
+```{r}
+install.packages("usethis")
+credentials::git_credential_ask()
+usethis::git_sitrep()
+```
+
+```{r}
+
+```
